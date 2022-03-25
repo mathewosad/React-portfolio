@@ -1,4 +1,5 @@
 import React from 'react';
+// Helper function to removeHypens and  capitalize first letter of string
 import { removeHyphensAndCapitalize } from '../../utils/helpers';
 
 
