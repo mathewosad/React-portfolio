@@ -12,13 +12,10 @@ function About() {
                     About Me
                 </h2>
                 <p>
-                    My name is David Belleza and I am a Multidisciplined Engineer. As a Multidisciplined Engineer,
-                    many of my projects have focused on electromechanical and robotic systems. My skills and experience
-                    range from mechanical and electronic design to software and embedded system development.
+                I'm a new graduating full stack developer who knows all there is to know about the stack. I recently finished a Full Stack Web Development Certificate at the University of Toronto in Canada, where I learned HTML, CSS, JAVASCRIPT, SQL Server, NodeJS, and MERN Stack.
                 </p>
                 <p>
-                    Currently, I am studying Full Stack Web Development to challenge myself and expand my professional toolbelt. Web Development allows me to combine my artistic talent and techical abilities.
-                    After receiving my certification, I hope to acquire the skills and knowledge to help me become well-rounded in both Engineering and Web Development. 
+                My strong organisational skills and problem-solving abilities enable me to work well with designers, software engineers, scrum masters, and project managers on cross-functional teams. My excellent education, professional background in technology, ambition for success, and keen attention to detail are all valuable characteristics I possess. 
                 </p>
             </div>
         </div>
