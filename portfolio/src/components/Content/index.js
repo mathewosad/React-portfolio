@@ -1,7 +1,7 @@
 import React from 'react';
 import Contact from '../Contact';
 import About from '../About';
-import Work from '../Work';
+import Projects from '../Projects';
 import Resume from '../Resume';
 
 
@@ -11,7 +11,7 @@ function Content({ currentCategory }) {
 
         switch(currentCategory.name) {
         case 'Work':
-            return <Work />;
+            return <Projects />;
         case 'Contact':
             return <Contact />;
         case 'Resume':
