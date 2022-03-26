@@ -1,5 +1,5 @@
 import React from 'react';
-import Website from '../../images/website.png';
+
 
 function Project({ project, i }) {
     // this is the project object that is passed in from the parent component
@@ -14,13 +14,13 @@ function Project({ project, i }) {
                 <p>{project.description}</p>
             </div>
             <div className="flex-row">
-                <img src={require(`../../images/app-${i+1}.png`)} alt="Screenshot of application"></img>
+                {/* <img src={require(`../../images/p-${i+1}.png`)} alt="Screenshot of application"></img> */}
                 
             </div>
             <div className="flex-row">
-                <p>Visit application:</p>
+                <p>Click me:</p>
                 <a href={project.link} target="blank">
-                    <img src={Website} alt="website goto"></img>
+                    <img src={require(`../../images/${i+1}.png`)} alt="website goto"></img>
                 </a>
             </div>
         </div>

@@ -1,11 +1,12 @@
 import React from 'react';
-import pdf from '../../images/D_Belleza_Resume.pdf';
+import pdf from '../../images/Mathew_Osadolor_Resume.PDF';
+
 
 function Resume() {
     return (
         <div className="flex-container">
             <div className="flex-row">
-                <a href={pdf} target="blank">Click to view my Resume</a>
+                <a href={pdf} target="blank">View my Resume</a>
             </div>
         </div>
     );

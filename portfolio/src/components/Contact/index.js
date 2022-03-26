@@ -22,7 +22,7 @@ function Contact() {
                 <input type="text" defaultValue={formState.name} name="name" onChange={handleChange}/>
             </div>
             <div>
-                <label htmlFor="email">Email address:</label>
+                <label htmlFor="email">Email:</label>
                 <input type="email" defaultValue={formState.email} name="email" onChange={handleChange}/>
             </div>
             <div>

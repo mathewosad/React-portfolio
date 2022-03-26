@@ -5,11 +5,11 @@ main {
 }
 
 :root {
-  --primary: #2C4A73;
-  --secondary: #223A59;
-  --tertiary: #4177A6;
-  --accent: #324001;
-  --light: #F2E2CE;
+  --primary: #000000;
+  --secondary: #000204;
+  --tertiary: #0a23e4;
+  --accent: #c0392b;
+  --light: #97c6c9;
   --dark: #000000;
   --darker: #111111;
   --error: rgb(228, 46, 1);
@@ -158,9 +158,11 @@ li {
   list-style: none;
 }
 
+
 nav a:hover {
   color: var(--accent);
   text-shadow: 0 0 .5rem rgba(242, 226, 206, 0.7);
+  font-weight: bold;
 }
 
 nav  li {
@@ -254,6 +256,7 @@ textarea {
 .headshot{
   height: 300px;
   margin: 0 0 10px 35px;
+  border-radius: 20px;
 }
 
 button {
@@ -280,4 +283,5 @@ a {
 
 .navActive {
   color: var(--secondary);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
 }
