@@ -1,7 +1,7 @@
 import React from 'react';
 import Contact from '../Contact';
 import About from '../About';
-import Projects from '../Projects';
+import Portfolio from '../Portfolio';
 import Resume from '../Resume';
 
 
@@ -10,8 +10,8 @@ function Content({ currentCategory }) {
     const renderPage = () => {
 
         switch(currentCategory.name) {
-        case 'Work':
-            return <Projects />;
+        case 'Portfolio':
+            return <Portfolio />;
         case 'Contact':
             return <Contact />;
         case 'Resume':

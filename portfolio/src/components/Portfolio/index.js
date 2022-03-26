@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Project from '../Project';
 
-function Projects() {
+function Portfolio() {
 
     const [projects] = useState([
         {
@@ -17,7 +17,7 @@ function Projects() {
             repo: "https://github.com/sevaggap/UofT-SCS-Coding-Bootcamp-Project-2-Recipe-Blog"
         },
         {
-            name: 'Project 3',
+            name: 'MERN Stack Coming soon!!!',
             description: 'MERN Stack',
             link: "https://github.com/mathewosad",
             repo: "https://github.com/mathewosad"
@@ -39,4 +39,4 @@ function Projects() {
     );
 }
 
-export default Projects;
+export default Portfolio;
