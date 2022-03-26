@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Project from '../Project';
 
-function Work() {
+function Projects() {
 
     const [projects] = useState([
         {
@@ -39,4 +39,4 @@ function Work() {
     );
 }
 
-export default Work;
+export default Projects;

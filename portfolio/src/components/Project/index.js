@@ -2,6 +2,7 @@ import React from 'react';
 import Website from '../../images/website.png';
 
 function Project({ project, i }) {
+    // this is the project object that is passed in from the parent component
 
 
     return (
@@ -14,6 +15,7 @@ function Project({ project, i }) {
             </div>
             <div className="flex-row">
                 <img src={require(`../../images/app-${i+1}.png`)} alt="Screenshot of application"></img>
+                
             </div>
             <div className="flex-row">
                 <p>Visit application:</p>
