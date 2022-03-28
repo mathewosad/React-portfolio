@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.500dcada.css",
+    "main.js": "/React-portfolio/static/js/main.c094af32.js",
+    "static/media/1.png": "/React-portfolio/static/media/1.cb030551a464c37ba27e.png",
+    "static/media/background.png": "/React-portfolio/static/media/background.8962c4f904d7c89aea97.png",
+    "static/media/matt.jpg": "/React-portfolio/static/media/matt.93b7f6f154937c659f64.jpg",
+    "static/media/background2.png": "/React-portfolio/static/media/background2.6890917e29a7fd89ccd6.png",
+    "static/media/2.png": "/React-portfolio/static/media/2.48e84e908b04403eb134.png",
+    "static/media/3.png": "/React-portfolio/static/media/3.2867b1f82c68c8eb9cfa.png",
+    "static/media/Mathew_Osadolor_Resume.PDF": "/React-portfolio/static/media/Mathew_Osadolor_Resume.395d64dbb71a52de266d.PDF",
+    "static/media/dbicon.png": "/React-portfolio/static/media/dbicon.480321d8b297ab1afbb4.png",
+    "index.html": "/React-portfolio/index.html",
+    "main.500dcada.css.map": "/React-portfolio/static/css/main.500dcada.css.map",
+    "main.c094af32.js.map": "/React-portfolio/static/js/main.c094af32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.500dcada.css",
+    "static/js/main.c094af32.js"
+  ]
+}
