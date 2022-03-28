@@ -6,7 +6,7 @@ function Header(props) {
     return (
         <header className="flex-row px-1">
             <h2>
-                <a href="/">
+                <a href="/React-portfolio">
                     Mathew Osad
                 </a>
                 {props.children}
